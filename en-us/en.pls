@@ -23,4 +23,12 @@
     <grapheme>pols</grapheme>
     <phoneme>ˈpɒl.z</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>PAC</grapheme>
+    <phoneme>pæk</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>PACs</grapheme>
+    <phoneme>ˈpæk.z</phoneme>
+  </lexeme>
 </lexicon>
